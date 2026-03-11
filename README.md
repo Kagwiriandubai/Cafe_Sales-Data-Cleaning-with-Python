@@ -9,7 +9,7 @@ This project demonstrates **data cleaning, transformation, and visualization ski
 
 ## Dashboard Preview
 
-![Cafe Sales Dashboard](Cafe_sales_dashboard)
+![Cafe Sales Dashboard](Cafe_sales_dashboard.png)
 
 ---
 
